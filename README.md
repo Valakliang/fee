@@ -51,6 +51,9 @@
 1. [mysql](https://www.mysql.com/)
 2. [Node.js](http://nodejs.cn/)
 3. [redis](https://redis.io/)
+
+备注：安装server时需要python 2.7版本环境和xcode commandline工具（如果当前系统的python环境是python3版本将导致npm install失败）
+
 4. 克隆项目 在克隆项目之前确保你的`nodejs`、`mysql`和`redis`环境是可用的。
    ```bash
     mkdir -p ~/www/ \
